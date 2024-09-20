@@ -1,0 +1,15 @@
+{
+  "name": "tdd-1",
+  "version": "1.0.0",
+  "main": "tdd_own_test_cases.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
